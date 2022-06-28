@@ -2,7 +2,9 @@
 
 A small utility tool to download cryptocurrency logo's from the internet.
 
-![Github Social Image](https://github.com/spkdroid/sparrow/blob/master/logo.png)
+<p align="center">
+  <img src="https://github.com/spkdroid/sparrow/blob/master/logo.png"/>
+</p>
 
 Using Sparrow, all the market cryptocurrencies would be exported in a PNG format.
 
